@@ -1327,7 +1327,7 @@ body.light hr.separator {
   }
 
   .main-img-mobile {
-    border-radius: 50%; 
+    border-radius: 100%; 
     width: 270px;
     height: 270px;
     border: 2px solid #ffffff;
