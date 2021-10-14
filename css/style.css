@@ -1320,10 +1320,10 @@ body.light hr.separator {
   }
 
   .main-img-mobile {
-    border-radius: 100%; 
-    width: 270px;
-    height: 270px;
-    border: 2px solid #ffffff;
+    border-radius: 0%; 
+    width:  350px;
+    height: 350px;
+    border: 2px solid hsl(0, 100%, 100%);
     margin: 0 auto 25px;
     display: block;
   }
